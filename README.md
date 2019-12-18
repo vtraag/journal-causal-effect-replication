@@ -1,8 +1,15 @@
-The material in this repository is meant to replicate the results of [1]. It contains both the necessary data and the source code to replicate our results.
+The material in this repository is meant to replicate the results of [1]. It contains the necessary source code to replicate our results. This repository is also archived at Zenodo:
+
+[![DOI](https://zenodo.org/badge/228789557.svg)](https://zenodo.org/badge/latestdoi/228789557)
+
 
 # Data
 
-The data for replication is available from Zenodo, doi: [10.5281/zenodo.3582974](https://dx.doi.org/10.5281/zenodo.3582974). The dataset should be downloaded and extracted to a subdirectory of this repository called `data`. Please see the `README.md` in the data repository for more details regarding the data.
+The data for replication is available from Zenodo:
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3582974.svg)](https://doi.org/10.5281/zenodo.3582974)
+
+The dataset should be downloaded and extracted to a subdirectory of this repository called `data`. Please see the `README.md` in the data repository for more details regarding the data.
 
 # Source code
 
