@@ -40,4 +40,4 @@ The data is processed in subsets, per field and year. We first process the data 
 
 # References
 
-[1] Traag, V.A. (2019), Inferring the causal effect of journals on citations.
+[1] Traag, V.A. (2020), Inferring the causal effect of journals on citations. Quantitative Science Studies, doi: [10.1162/qss_a_00128](https://doi.org/10.1162/qss_a_00128), arXiv:[1912.08648](https://arxiv.org/abs/1912.08648)
